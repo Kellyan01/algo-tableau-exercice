@@ -16,7 +16,7 @@
 
 8. Assigner à une variable $bulletinScolaire, le tableau suivant ["math" => 15, "français" => 12, "histoire-géo" => 8, "physique-chimie" => 18]
 
-9. Assigner à une variable $noteEleve, le tableau suivant ["yoann" => [12, 15, 8, 6, 20, 19], "jeff" => [9, 5, 17, 16, 12, 13], "mathieu" => [20, 18, 8, 4, 15, 16]
+9. Assigner à une variable $noteEleve, le tableau suivant ["yoann" => [12, 15, 8, 6, 20, 19], "jeff" => [9, 5, 17, 16, 12, 13], "mathieu" => [20, 18, 8, 4, 15, 16]]
 
 10.  Dans le tableau $yoann, soustraire 2 à chaque note à l'aide de la boucle foreach, puis afficher chaque note dans le <main> sous la forme :
 ```html
